@@ -1,0 +1,18 @@
+<section id="activities">
+  <h2>Qué hacemos</h2>
+
+  <ul id="hexGrid">
+
+    {% for activity in site.agile_activities %}
+    <li class="hex">
+      <a class="hexIn" href="#">
+        <img src="{{activity.image}}" alt="{{activity.image_alt}}">
+        <h3>{{activity.title}}</h3>
+        {{activity.content}}
+      </a>
+    </li>
+    {% endfor %}
+
+  </ul>
+
+</section>

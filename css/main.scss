@@ -80,6 +80,7 @@ h1, h2, h3, h4, h5, h6 {
   font-family: 'Lato', sans-serif;
   font-weight: 300;
   color: #686868;
+  text-transform: uppercase;
 }
 
 h1 {
@@ -116,3 +117,10 @@ h1 span {
   max-width: 1600px;
 }
 
+#activities {
+  .hex {
+    img {
+      width: 300px
+    }
+  }
+}
