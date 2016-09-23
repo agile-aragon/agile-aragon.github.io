@@ -1,5 +1,5 @@
 ---
-title: desksurfing
+title: invitados
 image: /img/activities/desksurfing.jpg
 image_alt: 
 ---
