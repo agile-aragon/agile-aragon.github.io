@@ -151,7 +151,6 @@ PLATFORMS
 DEPENDENCIES
   github-pages
   html-proofer
-  jekyll (= 3.2.1)
   minima
   rake
   scss_lint
