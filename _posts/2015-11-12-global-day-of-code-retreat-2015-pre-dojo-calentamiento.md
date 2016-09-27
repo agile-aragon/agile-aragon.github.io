@@ -1,0 +1,167 @@
+---
+layout: post
+title: Global Day of Code Retreat 2015 + pre-Dojo calentamiento
+date: 2015-11-12 10:49:57.000000000 +01:00
+type: post
+published: true
+status: publish
+categories:
+- General
+tags: []
+meta:
+  _rest_api_published: '1'
+  _rest_api_client_id: "-1"
+  _publicize_job_id: '16780464945'
+  _publicize_done_external: a:1:{s:7:"twitter";a:1:{i:6161812;s:57:"https://twitter.com/AgileAragon/status/664741928391471104";}}
+  _publicize_done_6191518: '1'
+  _wpas_done_6161812: '1'
+  publicize_twitter_user: AgileAragon
+author: jrubr
+---
+Recordaros que este fin de semana es el
+[GDCR](http://globalday.coderetreat.org/), un evento mundial en el que
+142 ciudades participamos, juntándonos para resolver el problema del
+Juego de la Vida de Conway y aprender en el proceso. Este año vienen dos
+compañeros de Barcelona, [Manuel](https://twitter.com/trikitrok)y
+[Álvaro](https://twitter.com/alvarobiz), y estoy convencido que será muy
+interesante, dado que estos le dan a la programación
+[func](https://es.wikipedia.org/wiki/Programaci%C3%B3n_funcional)ional
+que da gusto ;-)
+
+<div>
+
+</div>
+
+<div>
+
+El Viernes haremos una Kata para calentar, de 18:00 a 20:00
+: <http://www.meetup.com/agilearagon/events/226699902/>
+
+</div>
+
+<div>
+
+Y el Sábado, empezamos el GDCR a las 9:00 :
+<http://www.meetup.com/agilearagon/events/226658501/>
+
+</div>
+
+<div>
+
+</div>
+
+<div>
+
+No voy a contaros más del GDCR, porque para los que no lo hayan vivido
+antes, Francho ya ha explicado mejor que yo en su
+blog <http://francho.org/2015/11/10/10-razones-para-ir-a-un-coderetreat/>
+:
+
+</div>
+
+<div>
+
+</div>
+
+<div>
+
+> <div>
+>
+> <div>
+>
+> 1\. Tienes que \*\*salir de tu cueva\*\* a que te de un poco el sol, que
+> ese color tan pálido no es normal
+>
+> </div>
+>
+> <div>
+>
+> 2\. Durante un rato \*\*podrás hablar "klingon"\*\* con otros seres
+> humanos que te entenderán y no pondrán caras raras con tus palabrejas
+>
+> </div>
+>
+> <div>
+>
+> 3\. Vas a \*\*programar por el puro placer de programar\*\*... sólo para
+> tí, sin fechas de entrega y sin presiones de ningún tipo. (Total sabes
+> que el código lo vais a borrar después de cada iteración)
+>
+> </div>
+>
+> <div>
+>
+> 4\. Podrás \*\*conocer a verdaderos cracks\*\* de la programación, podrás
+> verlos en acción... igual hasta puedes tocarlos (si se dejan)
+>
+> </div>
+>
+> <div>
+>
+> 5\. Experimentarás en primera persona que eso del \*\*pair
+> programming\*\* no es una leyenda urbana
+>
+> </div>
+>
+> <div>
+>
+> 5\. \*\*Mejorarás tu kung-fu\*\* a base de practicar una y otra vez el
+> mismo ejercicio (ya sabes: dar cera... quitar cera)
+>
+> </div>
+>
+> <div>
+>
+> 6\. Es una buena forma de \*\*probar\*\* lenguajes de programación de la
+> mano de alguien que ya lo controla (o no)
+>
+> </div>
+>
+> <div>
+>
+> 7\. Podras \*\*zancochar\*\* otros IDEs, sistemas operativos,
+> herramientas... (cosas que en el trabajo no te dejan ni mencionar)
+>
+> </div>
+>
+> <div>
+>
+> 8\. Igual \*\*enseñas\*\* a alguien algo nuevo... igual \*\*aprendes\*\*
+> algo nuevo
+>
+> </div>
+>
+> <div>
+>
+> 10\. \*\*Te vas a divertir\*\* tanto que querras volver al siguiente...
+> ¡seguro!
+>
+> </div>
+>
+> </div>
+
+<div>
+
+</div>
+
+<div>
+
+</div>
+
+<div style="text-align:center;">
+
+¡Nos vemos este finde!
+
+</div>
+
+<div style="text-align:center;">
+
+</div>
+
+</div>
+
+<div>
+
+![]({{site.baseurl}}/img/posts/Gospers_glider_gun.gif)
+
+</div>
