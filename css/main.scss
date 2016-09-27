@@ -1,24 +1,28 @@
 ---
-# Only the main Sass file needs front matter (the dashes are enough)
 ---
+
 @charset "utf-8";
 
 // Our variables
 $base-font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
 $base-font-size: 16px;
 $base-font-weight: 400;
-$small-font-size: $base-font-size * 0.875;
+$small-font-size: $base-font-size * .875;
 $base-line-height: 1.5;
 
 $spacing-unit: 30px;
 
 $text-color: #111;
-$background-color: #fdfdfd;
+$background-color: #efeeee;
 $brand-color: #2a7ae2;
 
 $grey-color: #828282;
 $grey-color-light: lighten($grey-color, 40%);
 $grey-color-dark: darken($grey-color, 25%);
+
+$agile-aragon-color: #b4010f;
+$title-color: #686868;
+$hover-color: red;
 
 // Width of the content area
 $content-width: 800px;
@@ -42,22 +46,24 @@ $on-laptop: 800px;
 @import url(https://fonts.googleapis.com/css?family=Oswald:300);
 
 body {
-  background: #efeeee;
+  background: $background-color;
+  color: $text-color;
   font-family: 'Lato', sans-serif;
-  font-weight: 300;
   font-size: 1.3em;
+  font-weight: 300;
   line-height: 1.3em;
-  color: #000;
 }
 
 a {
-  color: #C03035;
+  color: $agile-aragon-color;
+  text-decoration: none;
+  transition: 300ms;
 }
 
 a:hover {
+  color: $hover-color;
   outline: none;
   text-decoration: none;
-  color: #4fcccd;
 }
 
 a:focus {
@@ -65,62 +71,50 @@ a:focus {
   outline-offset: 0;
 }
 
-a {
-  -webkit-transition: 300ms;
-  -moz-transition: 300ms;
-  -o-transition: 300ms;
-  transition: 300ms;
-}
-
 ul {
   list-style: none;
 }
 
-h1, h2, h3, h4, h5, h6 {
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  color: $title-color;
   font-family: 'Lato', sans-serif;
   font-weight: 300;
-  color: #686868;
   text-transform: uppercase;
 }
 
 h1 {
+  color: $text-color;
+  font-family: 'Oswald', sans-serif;
   font-size: 8vw;
   font-weight: 300;
-  font-family: 'Oswald', sans-serif;
-  color: #000;
   margin-top: 30px;
   text-transform: uppercase;
+  span {
+    color: $agile-aragon-color;
+  }
 }
 
-h1 span {
-  color: #B4010F;
-
-}
-
-.top-nav {
-  background-color: #008db6;
-}
-
-.top-nav ul {
-  list-style-type: none;
-  padding: 0;
-  margin: 0;
-}
 
 .logo {
   width: 200px;
 }
 
-.page-content, footer {
+.page-content,
+footer {
   margin: 0 auto;
-  padding: 0 5%;
   max-width: 1600px;
+  padding: 0 5%;
 }
 
-#activities {
+.activities {
   .hex {
     img {
-      width: 300px
+      width: 300px;
     }
   }
 }
