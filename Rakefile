@@ -18,10 +18,11 @@ end
 desc 'Run html tests'
 task :html_lint => [:build] do
   HTMLProofer.check_directory('./_site', {
-                               typhoeus: {ssl_verifypeer: false, ssl_verifyhost: 0},
-                               only_4xx: true,
-                               parallel: {in_processes: 5}
-                             }).run
+    internal_domains: %w(agile-aragon.org agile-aragon.github.io),
+    typhoeus: {ssl_verifypeer: false, ssl_verifyhost: 0},
+    only_4xx: true,
+    parallel: {in_processes: 5}
+  }).run
 end
 
 desc 'Run scss-lint tests'

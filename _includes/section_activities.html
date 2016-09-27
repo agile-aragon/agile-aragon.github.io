@@ -5,8 +5,8 @@
 
     {% for activity in site.agile_activities %}
     <li class="hex">
-      <a class="hexIn" href="#">
-        <img src="{{activity.image}}" alt="{{activity.image_alt}}">
+      <a class="hexIn" href="javascript:void(0)">
+        <img src="{{activity.image}}" alt="{% if activity.image_alt %}{{activity.image_alt}}{% else %}Agile Aragon{% endif%}">
         <h3>{{activity.title}}</h3>
         {{activity.content}}
       </a>
