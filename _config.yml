@@ -24,7 +24,7 @@ url: "http://agile-aragon.org" # the base hostname & protocol for your site
 markdown: kramdown
 theme: minima
 
-permalink: pretty
+permalink: /:year/:month/:day/:title/
 
 collections:
   agile_activities:
