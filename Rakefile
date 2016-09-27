@@ -29,7 +29,7 @@ desc 'Run scss-lint tests'
 task :scss_lint do
   SCSSLint::RakeTask.new do |t|
     t.config= './.scss-lint.yml'
-    t.files= ['css/main.scss']
+    t.files= ['css/']
   end
 end
 

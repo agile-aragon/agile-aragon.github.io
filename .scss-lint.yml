@@ -1,4 +1,9 @@
 # Default application configuration that all configurations inherit from.
+scss_files: 'css/**/*.scss'
+exclude: 'css/vendor/*'
+preprocess_command: "sed '1,2s/---//'"
+
+
 linters:
   BorderZero:
     enabled: true
