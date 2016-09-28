@@ -1,0 +1,34 @@
+---
+layout: post
+title: Retro-documental AOS2013
+date: 2013-07-08 16:22:07.000000000 +02:00
+type: post
+published: true
+status: publish
+categories:
+- eventos
+tags:
+- aos2013
+- eventos
+- retrospectiva
+- video
+meta:
+  _edit_last: '19417078'
+  _publicize_pending: '1'
+  tagazine-media: a:7:{s:7:"primary";s:0:"";s:6:"images";a:0:{}s:6:"videos";a:0:{}s:11:"image_count";i:0;s:6:"author";s:8:"19417078";s:7:"blog_id";s:8:"41952923";s:9:"mod_stamp";s:19:"2013-07-08
+    14:22:07";}
+  _oembed_965f3c0a00e10fecc93c2ea8d9cde6c8: "{{unknown}}"
+  _oembed_6f263a66d49ba8ec89c379b3960e14ba: "{{unknown}}"
+  _oembed_0560274e7c775564a14d92af95d9a88a: "{{unknown}}"
+  _oembed_ec5a786caa33d8208e8c860fc69581f9: "{{unknown}}"
+  _oembed_146163f1456419c0822f896669bd4185: "{{unknown}}"
+  _oembed_a4dfa02ea70110fc14cdd0b05f9ded7c: "{{unknown}}"
+author: tolivern
+---
+Por lo visto en el viaje de vuelta del **\#aos2013** a Zaragoza, al
+comando de @agilearagon se le ocurrió grabar un **video** a modo de
+**retrospectiva** del evento. Aquí lo tenéis en exclusiva para todos los
+que no pudisteis ir, el estilo es puro
+[dogma](http://es.wikipedia.org/wiki/Dogma_95 "Estilo dogma"):
+
+[youtube=http://www.youtube.com/watch?v=H5sO9oW7uXY&feature=youtu.be]

@@ -1,0 +1,47 @@
+---
+layout: post
+title: Katayuno en Teruel
+date: 2013-04-26 15:30:09.000000000 +02:00
+type: post
+published: true
+status: publish
+categories:
+- actividades
+tags:
+- actividades
+- katayuno
+- TDD
+meta:
+  _edit_last: '31371989'
+  _publicize_pending: '1'
+author: nimpedrojo
+---
+Bueno, como ya adelantábamos en el [resumen de actividades
+previstas](http://wp.me/p2Q1S3-29) este trimestre tenemos Katayuno
+viajero.
+
+[![Torico]({{site.baseurl}}/img/posts/descarga.jpg)](http://agilearagon.files.wordpress.com/2013/04/descarga.jpg)Si,
+amigos, nos vamos a Teruel, donde podremos disfrutar de esa bonita
+ciudad practicando TDD en compañía agradable. Y tal y como habíamos
+adelantado, tendremos una sorpresa añadida.Y es que, a los desayunos
+habituales en los anteriores Katayunos , añadimos una comida en el
+campo.
+
+Si el tiempo lo permite, después de acabar el Katayuno en la EUPT -
+Escuela Politécnica de Teruel tendremos una comida campestre en la
+[Fuentecerrada](http://www.rinconesdeteruel.es/fuentes-y-merenderos/fuente-cerrada/).
+Una ocasión inmejorable para integrar a la familia en tus actividades
+"frikis".
+
+Es por esto , que al inscribirte (desde
+[aquí](http://www.katayunos.com)) te solicitaremos que indiques si vas a
+quedarte a comer y cuantas personas vendrían a la comida.
+
+A todo esto, se me olvidaba comentaros que finalmente la fecha sera el
+sábado 11 de Mayo.
+
+Así que ya sabéis , si sois de Teruel o alrededores no os perdáis esta
+oportunidad de practicar TDD, y si no sois de Teruel no os perdáis la
+posibilidad de visitar la ciudad con la excusa de aprender y practicar.
+
+Nos vemos allí.

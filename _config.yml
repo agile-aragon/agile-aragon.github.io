@@ -26,6 +26,9 @@ theme: minima
 
 permalink: /:year/:month/:day/:title/
 
+exclude:
+  - vendor/bundle
+
 collections:
   agile_activities:
     output: false
