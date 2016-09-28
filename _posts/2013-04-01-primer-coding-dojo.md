@@ -24,7 +24,7 @@ Mientras hacemos tiempo para el siguiente
 una nueva forma para practicar y aprender unos de otros el arte de la
 programación. El [Coding Dojo](http://codingdojo.org/).
 
-![]({{site.baseurl}}/img/posts/images?q=tbn:ANd9GcS3yFn37x2y6-xIs9s_Uvb93LCaBWcdSa_zQehucrsQR08pPb90pA "Randori format")
+![randori]({{site.baseurl}}/img/posts/images?q=tbn:ANd9GcS3yFn37x2y6-xIs9s_Uvb93LCaBWcdSa_zQehucrsQR08pPb90pA "Randori format")
 
 Realizaremos una sesión doble el Viernes 12 de Abril en la [Escuela de
 Ingeniería y Arquitectura de la Universidad de

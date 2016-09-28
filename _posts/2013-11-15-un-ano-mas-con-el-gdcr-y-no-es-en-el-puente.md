@@ -17,7 +17,7 @@ Bueno, como veis tenemos mucha influencia y tras escuchar vuestras
 protestas acerca de la fecha , este año la organización del **Global Day
 of Code Retreat** ha decidido cambiar el fin de semana .
 
-![]({{site.baseurl}}/img/posts/gdcr_ad_text.png)
+![global day of code retreat]({{site.baseurl}}/img/posts/gdcr_ad_text.png)
 
 Este año el  **Global Day of Code Retreat** sera el día 14 de
 diciembre.El lugar esta todavía por confirmar, así que permanecer

@@ -267,6 +267,6 @@ y cómo empezar con TDD en .NET. El guión de la charla-taller:
 para ir montando la infraestructura de testing, o simplemente ven con
 papel y boli a aprender ;-)
 
-![]({{site.baseurl}}/img/posts/giphy.gif)
+![giphy]({{site.baseurl}}/img/posts/giphy.gif)
 
 http://www.meetup.com/agilearagon/events/229664316/

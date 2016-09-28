@@ -258,6 +258,6 @@ los tests y que están en rojo (sólo hay uno).  
 kata ](https://github.com/emilybache/GildedRose-Refactoring-Kata/blob/master/GildedRoseRequirements.txt)antes
 de venir. 
 
-![]({{site.baseurl}}/img/posts/giphy.gif)
+![giphy]({{site.baseurl}}/img/posts/giphy.gif)
 
 http://www.meetup.com/agilearagon/events/231413322/

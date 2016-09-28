@@ -245,7 +245,7 @@ busca gifs
 
 Vamos que Botludo es a Spines, lo que Igor al doctor Frankenstein
 
-![]({{site.baseurl}}/img/posts/600_448318477.jpeg)
+![Bot]({{site.baseurl}}/img/posts/600_448318477.jpeg)
 
 El taller va estar dividido en dos partes, en la primera os contaremos
 las integraciones que utilizamos y cómo las usamos. La segunda será un

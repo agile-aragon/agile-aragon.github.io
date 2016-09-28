@@ -45,7 +45,7 @@ solucionaremos será la [Kata Mars
 Rovers](http://amirrajan.net/Blog/code-katas-mars-rover/ "Kata Mars Rovers")
 propuesta por [Francho](http://francho.org/ "Francho").
 
-![]({{site.baseurl}}/img/posts/images?q=tbn:ANd9GcS3yFn37x2y6-xIs9s_Uvb93LCaBWcdSa_zQehucrsQR08pPb90pA "Randori format")
+![Randori]({{site.baseurl}}/img/posts/images?q=tbn:ANd9GcS3yFn37x2y6-xIs9s_Uvb93LCaBWcdSa_zQehucrsQR08pPb90pA "Randori format")
 
 No os preocupéis por los ordenadores, con uno sólo nos bastará.
 Llevaremos uno bien configurado con

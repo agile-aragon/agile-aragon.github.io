@@ -274,6 +274,6 @@ usáis vosotros *Jenkins* o similares.
 • Material: Ganas de aprender y compartir, esta vez el ordenador no hace
 falta.
 
-![]({{site.baseurl}}/img/posts/header_logo.png)
+![jenkins]({{site.baseurl}}/img/posts/header_logo.png)
 
 http://www.meetup.com/agilearagon/events/229263361/

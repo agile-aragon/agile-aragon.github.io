@@ -20,7 +20,7 @@ meta:
   _wpas_skip_6161812: '1'
 author: nimpedrojo
 ---
-![]({{site.baseurl}}/img/posts/logo.svg)
+![logo]({{site.baseurl}}/img/posts/logo_agilearagon.png)
 
  
 

@@ -41,7 +41,7 @@ experiencias reales y reflejándolo en distintas dinámicas.  La charla
 tendrá lugar en el **Aula 11** del **Edificio Ada Byron** de **18:30 a
 20**.
 
-![]({{site.baseurl}}/img/posts/images?q=tbn:ANd9GcS3yFn37x2y6-xIs9s_Uvb93LCaBWcdSa_zQehucrsQR08pPb90pA "Randori format")
+![randori]({{site.baseurl}}/img/posts/images?q=tbn:ANd9GcS3yFn37x2y6-xIs9s_Uvb93LCaBWcdSa_zQehucrsQR08pPb90pA "Randori format")
 
 Y el Viernes **8 de Mayo** ración doble de Coding Dojo. La primera
 sesión será de **17:00 a 18:30**, donde realizaremos una [kata

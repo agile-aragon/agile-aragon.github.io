@@ -29,16 +29,16 @@ do with this post...*
 
 Do you feel as a loser when you are going to speak English?
 
-![]({{site.baseurl}}/img/posts/_g7G2WKCctUlXrIJyiEqjmC9D1j3cHQJc2a9ggZyxcW2dzB_mMovbs_RB7YckELbpACEn4iY7exCUmlKY-z6Gy_Nad_U58SSxdukQlOESnh8ldzwje5PITHv)
+![loser]({{site.baseurl}}/img/posts/_g7G2WKCctUlXrIJyiEqjmC9D1j3cHQJc2a9ggZyxcW2dzB_mMovbs_RB7YckELbpACEn4iY7exCUmlKY-z6Gy_Nad_U58SSxdukQlOESnh8ldzwje5PITHv)
 
 Do you feel shy because your English is getting worst every day?
 
-![]({{site.baseurl}}/img/posts/k5WMEm2Cm9OiMJnpzisYMMP2W7WIYBx1okNq94-k28KVLl7ikMFGiLGjiFqf0d0frZtXOwx4aqUV0kumhhC7YbsKNuaNOEa_rxX4KfpFMfV9a05Q7jbdK4hc)
+![shy]({{site.baseurl}}/img/posts/k5WMEm2Cm9OiMJnpzisYMMP2W7WIYBx1okNq94-k28KVLl7ikMFGiLGjiFqf0d0frZtXOwx4aqUV0kumhhC7YbsKNuaNOEa_rxX4KfpFMfV9a05Q7jbdK4hc)
 
 Have you noticed so many english mistakes in this TEXT that you feel
 sorry and you wanna collaborate?
 
-![]({{site.baseurl}}/img/posts/C9RuERDAaRnWge-7H_HGFhKc42ePQctFPYNldml5OwSY_gBx-z2AW4oenxYIYgx3TYY82GHYFYE_g26SG1BXj9jEbbkvOwza5MZOYBD-5QYSIteTRVOooAvq)
+![mistakes]({{site.baseurl}}/img/posts/C9RuERDAaRnWge-7H_HGFhKc42ePQctFPYNldml5OwSY_gBx-z2AW4oenxYIYgx3TYY82GHYFYE_g26SG1BXj9jEbbkvOwza5MZOYBD-5QYSIteTRVOooAvq)
 
 Do you know that the pictures are GIFs and what does it mean?
 

@@ -31,7 +31,7 @@ vídeo [A Product Owner and Scrum Team write User
 Stories](http://scrumtrainingseries.com/BacklogRefinementMeeting/BacklogRefinementMeeting.htm) *¿Y
 tú que vas a leerte o ver?*
 
-![]({{site.baseurl}}/img/posts/cad16-better-user-story2.png)
+![historias de usuario]({{site.baseurl}}/img/posts/cad16-better-user-story2.png)
 
 Como remate a la tarde, y para dar más juego, mostraremos el panel
 Trello con las Historias de Usuario que hemos escrito para el proyecto

@@ -16,7 +16,7 @@ meta:
   _publicize_done_external: a:1:{s:7:"twitter";a:1:{i:816924564;b:1;}}
 author:  papajulio21
 ---
-![]({{site.baseurl}}/img/posts/images?q=tbn:ANd9GcS3yFn37x2y6-xIs9s_Uvb93LCaBWcdSa_zQehucrsQR08pPb90pA "Randori format")
+![Randori format]({{site.baseurl}}/img/posts/images?q=tbn:ANd9GcS3yFn37x2y6-xIs9s_Uvb93LCaBWcdSa_zQehucrsQR08pPb90pA "Randori format")
 
 Realizaremos una sesión doble el Viernes 25 de Abril en la [Escuela de
 Ingeniería y Arquitectura de la Universidad de

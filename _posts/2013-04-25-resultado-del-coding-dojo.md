@@ -42,7 +42,7 @@ Al final hicimos unas
 y parece que todo el mundo salio muy contento con la experiencia, buen
 comienzo de tarde.
 
-![]({{site.baseurl}}/img/posts/1365789820834.jpg)
+![retrospectiva]({{site.baseurl}}/img/posts/1365789820834.jpg)
 
 Después de la rigurosa cerveza en la cafetería, nos pusimos manos a la
 obra con [The Gilded

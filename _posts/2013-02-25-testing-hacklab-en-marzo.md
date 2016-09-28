@@ -29,7 +29,7 @@ meta:
     height="182"";s:4:"bits";i:8;s:8:"channels";i:3;s:4:"mime";s:10:"image/jpeg";}
 author:: papajulio21
 ---
-![]({{site.baseurl}}/img/posts/images.jpg)
+![image]({{site.baseurl}}/img/posts/images.jpg)
 
 Para no parar el tren de actividades y que no os aburráis mucho, vamos
 con el próximo evento.

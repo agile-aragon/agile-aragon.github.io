@@ -19,6 +19,6 @@ o....
 
 ¿Buscamos nuevas fórmulas?
 
-![]({{site.baseurl}}/img/posts/600_454096875.jpeg)
+![planificar]({{site.baseurl}}/img/posts/600_454096875.jpeg)
 
 http://www.meetup.com/agilearagon/events/234088565/
