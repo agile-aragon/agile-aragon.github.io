@@ -34,7 +34,7 @@ esto, [Néstor
 Salceda](https://twitter.com/nestorsalceda "Néstor Salceda") nos hablará
 sobre la filosofía que hay detrás del termino. También nos mostrará un
 ejemplo de despliegue automatizado con
-[Chef](http://www.opscode.com/chef/‎ "Chef")  y posteriormente [yo
+[Chef](https://www.chef.io/chef/ "Chef")  y posteriormente [yo
 mismo](http://www.twitter.com/luisperlaz "yo mismo") haré lo propio con
 [Ansible](http://ansible.cc/ "Ansible").
 

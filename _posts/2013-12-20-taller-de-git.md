@@ -18,7 +18,7 @@ barruntando el montar un taller del CSM
 pero no hay problema porque ¡estrenaremos el año con el primer taller de
 Agile-Aragón para 2014!
 
-![]({{site.baseurl}}/img/posts/gBpfuABUjSNi2RagtJrGi8TW-pmtgak_0qtGOGubihvKH-5-umreO9CwJgjX2kaA9E7RkLwtEwiDnoMtOgm4iMJ0IWhvXlzlKL1kNVUYWuNa-gLRtRoyNjkVYg)
+![git]({{site.baseurl}}/img/posts/gBpfuABUjSNi2RagtJrGi8TW-pmtgak_0qtGOGubihvKH-5-umreO9CwJgjX2kaA9E7RkLwtEwiDnoMtOgm4iMJ0IWhvXlzlKL1kNVUYWuNa-gLRtRoyNjkVYg)
 
 [Git](http://git-scm.com "Git") es un sistema de control de versiones
 desarrollado por Linus Torvalds, que está diseñado como un sistema
@@ -47,7 +47,7 @@ Este taller es para ti si:
 -   Va a ser un taller práctico, así que necesitamos que traigas tu
     portátil.
 
-![]({{site.baseurl}}/img/posts/nVxNWyzaVrV_D0IjUwJaCpDelSMcYJrNhFQqSHpIYtratWyqwBBaCJjDZoWzhhiRGhcXYkP0y0CzjDGiiRJZRgSbl-SEOf8PgWn0NtpMQ2HQwfbx-Gme7uO3rw)
+![git]({{site.baseurl}}/img/posts/nVxNWyzaVrV_D0IjUwJaCpDelSMcYJrNhFQqSHpIYtratWyqwBBaCJjDZoWzhhiRGhcXYkP0y0CzjDGiiRJZRgSbl-SEOf8PgWn0NtpMQ2HQwfbx-Gme7uO3rw)
 
 ¿Qué aprenderemos en el taller?
 

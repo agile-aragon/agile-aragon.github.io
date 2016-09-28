@@ -24,7 +24,7 @@ Mientras hacemos tiempo para el siguiente
 una nueva forma para practicar y aprender unos de otros el arte de la
 programación. El [Coding Dojo](http://codingdojo.org/).
 
-![]({{site.baseurl}}/img/posts/images?q=tbn:ANd9GcS3yFn37x2y6-xIs9s_Uvb93LCaBWcdSa_zQehucrsQR08pPb90pA "Randori format")
+![randori]({{site.baseurl}}/img/posts/randori.jpg "Randori format")
 
 Realizaremos una sesión doble el Viernes 12 de Abril en la [Escuela de
 Ingeniería y Arquitectura de la Universidad de
@@ -42,7 +42,7 @@ familiar con ellos no te preocupes la idea es aprender y pasarlo bien.
 No se requieren conocimientos específicos de ningún tipo, solo ganas de
 aprender y mejorar. Eso sí estate dispuesto a participar pues
 utilizaremos el formato
-[Randori.](http://codingdojo.org/cgi-bin/wiki.pl?RandoriKata)
+[Randori.](http://www.stefanhendriks.com/2012/09/20/a-randori-with-corey-haines/)
 
 Apuntaros en el evento de
 [Google+](https://plus.google.com/u/0/events/cr56jqrpug8r6qg3tahhmtc5lg4)

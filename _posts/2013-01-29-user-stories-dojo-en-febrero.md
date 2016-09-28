@@ -18,7 +18,7 @@ author: tolivern
 ---
 Aprovechando la visita de [**Xavi
 Gost**](https://twitter.com/xav1uzz "Xavi Gost") de
-[BeCode](http://www.becodemyfriend.com/ "BeCode") por Zaragoza, el
+[BeCode](https://twitter.com/becodemyfriend "BeCode") por Zaragoza, el
 próximo **20 de febrero de 19h a 20:30** organizaremos un **User Stories
 Dojo** con Xavi como maestro de ceremonias. O sea, practicaremos **cómo
 escribir buenas historias**, cosa que suele ser uno de los puntos más

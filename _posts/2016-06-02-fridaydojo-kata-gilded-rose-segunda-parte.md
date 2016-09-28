@@ -268,6 +268,6 @@ kata ](https://github.com/emilybache/GildedRose-Refactoring-Kata/blob/master/Gi
 de venir ([Aquí](https://github.com/francho/kata-betabeers) en español
 gracias a [@francholab](https://twitter.com/francholab)).
 
-![]({{site.baseurl}}/img/posts/rFmnfu2.gif)
+![kata]({{site.baseurl}}/img/posts/rFmnfu2.gif)
 
 http://www.meetup.com/agilearagon/events/231598524/

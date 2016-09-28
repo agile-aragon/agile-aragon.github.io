@@ -26,6 +26,6 @@ con ellos no te preocupes la idea es aprender y pasarlo bien. No se
 requieren conocimientos específicos de ningún tipo, solo ganas de
 aprender y mejorar. Eso sí estate dispuesto a participar pues
 utilizaremos el formato
-[Randori](http://codingdojo.org/cgi-bin/index.pl?RandoriKata).
+[Randori](http://www.stefanhendriks.com/2012/09/20/a-randori-with-corey-haines/).
 
 http://www.meetup.com/agilearagon/events/230927444/

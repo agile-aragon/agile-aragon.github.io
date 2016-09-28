@@ -41,7 +41,7 @@ experiencias reales y reflejándolo en distintas dinámicas.  La charla
 tendrá lugar en el **Aula 11** del **Edificio Ada Byron** de **18:30 a
 20**.
 
-![]({{site.baseurl}}/img/posts/images?q=tbn:ANd9GcS3yFn37x2y6-xIs9s_Uvb93LCaBWcdSa_zQehucrsQR08pPb90pA "Randori format")
+![randori]({{site.baseurl}}/img/posts/randori.jpg "Randori format")
 
 Y el Viernes **8 de Mayo** ración doble de Coding Dojo. La primera
 sesión será de **17:00 a 18:30**, donde realizaremos una [kata
@@ -57,6 +57,6 @@ familiar con ellos no te preocupes la idea es aprender y pasarlo bien.
 No se requieren conocimientos específicos de ningún tipo, solo ganas de
 aprender y mejorar. Eso sí estate dispuesto a participar pues
 utilizaremos el formato
-[Randori.](http://codingdojo.org/cgi-bin/wiki.pl?RandoriKata)
+[Randori.](http://www.stefanhendriks.com/2012/09/20/a-randori-with-corey-haines/)
 
 Si conoces a alguien que le puede interesar, compártelo y difúndelo.

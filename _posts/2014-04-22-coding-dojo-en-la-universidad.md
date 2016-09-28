@@ -16,7 +16,7 @@ meta:
   _publicize_done_external: a:1:{s:7:"twitter";a:1:{i:816924564;b:1;}}
 author:  papajulio21
 ---
-![]({{site.baseurl}}/img/posts/images?q=tbn:ANd9GcS3yFn37x2y6-xIs9s_Uvb93LCaBWcdSa_zQehucrsQR08pPb90pA "Randori format")
+![Randori format]({{site.baseurl}}/img/posts/randori.jpg "Randori format")
 
 Realizaremos una sesión doble el Viernes 25 de Abril en la [Escuela de
 Ingeniería y Arquitectura de la Universidad de
@@ -34,6 +34,6 @@ familiar con ellos no te preocupes la idea es aprender y pasarlo bien.
 No se requieren conocimientos específicos de ningún tipo, solo ganas de
 aprender y mejorar. Eso sí estate dispuesto a participar pues
 utilizaremos el formato
-[Randori.](http://codingdojo.org/cgi-bin/wiki.pl?RandoriKata)
+[Randori.](http://www.stefanhendriks.com/2012/09/20/a-randori-with-corey-haines/)
 
 ¡Nos vemos!

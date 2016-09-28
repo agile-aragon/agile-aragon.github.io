@@ -46,7 +46,7 @@ son:
     todo el mundo
 
 [caption id="attachment\_134" align="alignleft"
-width="300"]![]({{site.baseurl}}/img/posts/img_1626.jpg?w=300 "Retro")
+width="300"]![retro]({{site.baseurl}}/img/posts/img_1626.jpg?w=300 "Retro")
 Retro[/caption]
 
 Todos los talleres anteriores serán en el
@@ -58,7 +58,7 @@ el mundo, simplemente asumiremos que ya sabes lo que es una retro o una
 inception.
 
 [caption id="attachment\_135" align="alignright"
-width="300"]![]({{site.baseurl}}/img/posts/img_1627.jpg?w=300 "Y más retro")
+width="300"]![mas retro]({{site.baseurl}}/img/posts/img_1627.jpg?w=300 "Y más retro")
 Y más retro[/caption]En cuanto a **la retro**, salieron bastantes cosas
 y nos troleamos un poco los unos a los otros, con cariño. Resumen:
 
