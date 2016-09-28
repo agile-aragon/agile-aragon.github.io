@@ -38,14 +38,14 @@ introducción a
 [TDD](http://es.wikipedia.org/wiki/Desarrollo_guiado_por_pruebas) de
 unos 10 minutos, y después pasaremos a hacer un [Coding
 Dojo](http://www.genbetadev.com/metodologias-de-programacion/que-es-un-coding-dojo)
-de formato [Randori](http://codingdojo.org/cgi-bin/wiki.pl?RandoriKata)
+de formato [Randori](http://www.stefanhendriks.com/2012/09/20/a-randori-with-corey-haines/)
 para que todos tengamos oportunidad de programar si queremos y
 aprendamos de una forma más práctica y que teórica. El problema que
 solucionaremos será la [Kata Mars
-Rovers](http://amirrajan.net/Blog/code-katas-mars-rover/ "Kata Mars Rovers")
+Rovers](https://technologyconversations.com/2014/10/17/java-tutorial-through-katas-mars-rover/ "Kata Mars Rovers")
 propuesta por [Francho](http://francho.org/ "Francho").
 
-![Randori]({{site.baseurl}}/img/posts/images?q=tbn:ANd9GcS3yFn37x2y6-xIs9s_Uvb93LCaBWcdSa_zQehucrsQR08pPb90pA "Randori format")
+![Randori]({{site.baseurl}}/img/posts/randori.jpg "Randori format")
 
 No os preocupéis por los ordenadores, con uno sólo nos bastará.
 Llevaremos uno bien configurado con

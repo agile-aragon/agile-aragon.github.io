@@ -29,7 +29,7 @@ eres familiar con ellos no te preocupes la idea es aprender y pasarlo
 bien. No se requieren conocimientos específicos de ningún tipo, solo
 ganas de aprender y mejorar. Eso sí estate dispuesto a participar pues
 utilizaremos el
-formato [Randori.](http://codingdojo.org/cgi-bin/wiki.pl?RandoriKata)
+formato [Randori.](http://www.stefanhendriks.com/2012/09/20/a-randori-with-corey-haines/)
 
 Apuntaros en el evento
 de [Google+](https://plus.google.com/events/ci7prd6g50be7jq50a8opnh9sho) para

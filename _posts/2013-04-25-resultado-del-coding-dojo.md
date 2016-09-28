@@ -30,7 +30,7 @@ y un par de valientes mas fuimos los presentes. Explique con una [breve
 presentación](https://docs.google.com/presentation/d/1KWfkrc33pgsW0ctUb-cuyTCgadt0by6Mr47nOz7manI/edit#slide=id.p)
 que es en lo que estábamos y nos pusimos manos a la obra.
 Reflexionandolo después la cosa fue mas guiada que que un propio
-[Randori](http://codingdojo.org/cgi-bin/wiki.pl?RandoriKata), entre
+[Randori](http://www.stefanhendriks.com/2012/09/20/a-randori-with-corey-haines/), entre
 todos dimos forma a la sencilla kata del
 [FizzBuzz](http://www.solveet.com/exercises/Kata-FizzBuzz/11) intentado
 aplicar **TDD** y **Baby Steps**. Me sorprendió gratamente que aparte de

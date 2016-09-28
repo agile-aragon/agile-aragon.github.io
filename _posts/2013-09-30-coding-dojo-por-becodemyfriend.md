@@ -15,7 +15,7 @@ meta:
 author: lauralacarra
 ---
 ["Carretera y
-Manta" ](http://carreteraymanta.becodemyfriend.com/)de [BecodeMyFriend](http://www.becodemyfriend.com/) hace
+Manta" ](http://carreteraymanta.becodemyfriend.com/)de [BecodeMyFriend](https://twitter.com/becodemyfriend) hace
 **parada en Zaragoza** proponiéndonos hacer un** Coding Dojo**.
 
 Nosostros de [AgileAragón](http://twitter.com/agilearagon) *más
@@ -32,7 +32,7 @@ mapa.](https://www.google.com/maps?q=eina,+zaragoza&hl=es&ll=41.683041,-0.883455
 *
 
 **Moderadores:** [Xavi Gost](https://twitter.com/XaV1uzz) , [Aitor
-Sanz](https://twitter.com/iTor3_0) y [Luis
+Sanz](https://twitter.com/XLaCovaX) y [Luis
 Cordón](https://twitter.com/luislitze)
 
 **Inscripción:** [En este

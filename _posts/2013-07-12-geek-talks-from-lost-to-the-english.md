@@ -29,7 +29,7 @@ do with this post...*
 
 Do you feel as a loser when you are going to speak English?
 
-![loser]({{site.baseurl}}/img/posts/_g7G2WKCctUlXrIJyiEqjmC9D1j3cHQJc2a9ggZyxcW2dzB_mMovbs_RB7YckELbpACEn4iY7exCUmlKY-z6Gy_Nad_U58SSxdukQlOESnh8ldzwje5PITHv)
+![loser]({{site.baseurl}}/img/posts/loser.jpg)
 
 Do you feel shy because your English is getting worst every day?
 

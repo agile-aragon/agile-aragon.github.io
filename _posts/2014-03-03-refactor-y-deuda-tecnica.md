@@ -42,7 +42,7 @@ relacionada con el tema, y en ello estoy...  *¿Y tú que vas a leerte o
 ver?*
 
 Además el día **22 de Marzo** nos juntaremos para hacer un
-[katayuno](http://agile-aragon.org/tag/katayuno/) sobre la kata de
+katayuno sobre la kata de
 refactor [The Guilded
 Rose](https://github.com/alexaitken/GildedRose_java) que ya practicamos
 el[año
